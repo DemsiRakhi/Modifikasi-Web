@@ -12,5 +12,5 @@ Hasil
 ![alt text](https://github.com/DemsiRakhi/Modifikasi-Web/blob/master/ModifikasiWeb/hasil7.PNG)
 
 Hasil Tambahan Website yang ada pada home(beranda)
-![alt text](https://github.com/DemsiRakhi/Modifikasi-Web/blob/master/ModifikasiWeb/hasil8.PNG)
-![alt text](https://github.com/DemsiRakhi/Modifikasi-Web/blob/master/ModifikasiWeb/hasil9.PNG)
+![alt text](https://github.com/DemsiRakhi/Modifikasi-Web/blob/master/hasil8.PNG)
+![alt text](https://github.com/DemsiRakhi/Modifikasi-Web/blob/master/hasil9.PNG)
